@@ -1,0 +1,22 @@
+{
+  "name": "node-streamelements-api",
+  "version": "1.1.0",
+  "description": "a Node.js module for StreamElements api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbkynd/node-revlobot-api.git"
+  },
+  "keywords": [
+    "streamelements",
+    "node"
+  ],
+  "author": "erickraz <erickrazed@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
